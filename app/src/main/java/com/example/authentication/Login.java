@@ -14,6 +14,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.mainmenu.Homepage;
 import com.example.splashscreen.Dashboard;
 import com.example.splashscreen.R;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -67,7 +68,7 @@ public class Login extends AppCompatActivity {
                         if(task.isSuccessful())
                         {
                             Toast.makeText(Login.this, "Logged in successfully!", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(getApplicationContext(), Dashboard.class));
+                            startActivity(new Intent(getApplicationContext(), Homepage.class));
                         }
                         else {
                             Toast.makeText(Login.this, "Error!" + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
