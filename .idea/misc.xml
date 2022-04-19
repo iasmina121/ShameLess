@@ -11,9 +11,13 @@
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/drawable-v24/ic_home_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/font/actor.xml" value="0.1" />
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_onboarding.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/item_container_onboarding.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Iasmina/Desktop/ShameLess/app/src/main/res/layout/onboarding.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/danfk/AndroidStudioProjects/splashscreen2/app/src/main/res/layout/activity_dashboard.xml" value="0.16621376811594202" />
         <entry key="..\:/Users/danfk/AndroidStudioProjects/splashscreen2/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
