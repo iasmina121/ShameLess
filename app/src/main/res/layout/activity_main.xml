@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="#E9C46A"
     android:textAlignment="center"
-    tools:context=".MainActivity">
+    tools:context=".SplashScreen">
 
     <TextView
         android:id="@+id/textView4"
