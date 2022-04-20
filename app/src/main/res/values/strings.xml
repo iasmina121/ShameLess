@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">splashscreen</string>
     <string name="login">login</string>
+    <string name="hello">hello</string>
+    <string name="user">user</string>
+    <string name="my_body">my_body</string>
+    <string name="decision_making">decision_making</string>
+    <string name="diseases">diseases</string>
+    <string name="myth_busters">myth_busters</string>
+    <string name="gender_equality">gender_equality</string>
+    <string name="safety_pregnancy" />
+    <string name="communication_intimacy" />
+    <string name="puberty" />
+    <string name="chat_with_jimmy" />
+
 </resources>
